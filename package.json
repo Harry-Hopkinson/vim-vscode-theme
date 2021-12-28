@@ -1,0 +1,70 @@
+{
+    "name": "vim-theme",
+    "displayName": "Vim Theme",
+    "description": "A vim theme for vscode",
+    "version": "1.0.0",
+    "author": "Harry Hopkinson",
+    "publisher": "HarryHopkinson",
+    "engines": {
+      "vscode": "^1.40.1"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+      "color": "#3c3836",
+      "theme": "dark"
+    },
+    "homepage": "https://github.com/Harry-Hopkinson/vim-vscode-theme",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Harry-Hopkinson/vim-vscode-theme.git"
+    },
+    "contributes": {
+      "themes": [
+        {
+          "label": "Gruvbox Dark Medium",
+          "uiTheme": "vs-dark",
+          "path": "./themes/gruvbox-dark-medium.json"
+        },
+        {
+          "label": "Gruvbox Dark Hard",
+          "uiTheme": "vs-dark",
+          "path": "./themes/gruvbox-dark-hard.json"
+        },
+        {
+          "label": "Gruvbox Dark Soft",
+          "uiTheme": "vs-dark",
+          "path": "./themes/gruvbox-dark-soft.json"
+        },
+        {
+          "label": "Gruvbox Light Medium",
+          "uiTheme": "vs",
+          "path": "./themes/gruvbox-light-medium.json"
+        },
+        {
+          "label": "Gruvbox Light Hard",
+          "uiTheme": "vs",
+          "path": "./themes/gruvbox-light-hard.json"
+        },
+        {
+          "label": "Gruvbox Light Soft",
+          "uiTheme": "vs",
+          "path": "./themes/gruvbox-light-soft.json"
+        }
+      ]
+    },
+    "devDependencies": {
+      "@semantic-release/changelog": "^5.0.1",
+      "@semantic-release/git": "^9.0.0",
+      "ovsx": "^0.1.0",
+      "semantic-release": "^17.4.2",
+      "vsce": "^1.87.1"
+    },
+    "private": true,
+    "scripts": {
+      "semantic-release": "semantic-release"
+    },
+    "license": "MIT"
+  }
