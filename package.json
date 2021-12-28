@@ -24,34 +24,34 @@
     "contributes": {
       "themes": [
         {
-          "label": "Gruvbox Dark Medium",
+          "label": "Vim Dark Medium",
           "uiTheme": "vs-dark",
-          "path": "./themes/gruvbox-dark-medium.json"
+          "path": "./themes/vim-dark-medium.json"
         },
         {
-          "label": "Gruvbox Dark Hard",
+          "label": "Vim Dark Hard",
           "uiTheme": "vs-dark",
-          "path": "./themes/gruvbox-dark-hard.json"
+          "path": "./themes/vim-dark-hard.json"
         },
         {
-          "label": "Gruvbox Dark Soft",
+          "label": "Vim Dark Soft",
           "uiTheme": "vs-dark",
-          "path": "./themes/gruvbox-dark-soft.json"
+          "path": "./themes/vim-dark-soft.json"
         },
         {
-          "label": "Gruvbox Light Medium",
+          "label": "Vim Light Medium",
           "uiTheme": "vs",
-          "path": "./themes/gruvbox-light-medium.json"
+          "path": "./themes/vim-light-medium.json"
         },
         {
-          "label": "Gruvbox Light Hard",
+          "label": "Vim Light Hard",
           "uiTheme": "vs",
-          "path": "./themes/gruvbox-light-hard.json"
+          "path": "./themes/vim-light-hard.json"
         },
         {
-          "label": "Gruvbox Light Soft",
+          "label": "Vim Light Soft",
           "uiTheme": "vs",
-          "path": "./themes/gruvbox-light-soft.json"
+          "path": "./themes/vim-light-soft.json"
         }
       ]
     },
