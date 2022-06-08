@@ -1,70 +1,70 @@
 {
-    "name": "vim-theme",
-    "displayName": "Vim Theme",
-    "description": "A vim theme for vscode",
-    "version": "1.0.1",
-    "author": "Harry Hopkinson",
-    "publisher": "HarryHopkinson",
-    "engines": {
-      "vscode": "^1.40.1"
-    },
-    "categories": [
-      "Themes"
-    ],
-    "icon": "images/icon.png",
-    "galleryBanner": {
-      "color": "#3c3836",
-      "theme": "dark"
-    },
-    "homepage": "https://github.com/Harry-Hopkinson/vim-vscode-theme",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Harry-Hopkinson/vim-vscode-theme.git"
-    },
-    "contributes": {
-      "themes": [
-        {
-          "label": "Vim Dark Medium",
-          "uiTheme": "vs-dark",
-          "path": "./themes/vim-dark-medium.json"
-        },
-        {
-          "label": "Vim Dark Hard",
-          "uiTheme": "vs-dark",
-          "path": "./themes/vim-dark-hard.json"
-        },
-        {
-          "label": "Vim Dark Soft",
-          "uiTheme": "vs-dark",
-          "path": "./themes/vim-dark-soft.json"
-        },
-        {
-          "label": "Vim Light Medium",
-          "uiTheme": "vs",
-          "path": "./themes/vim-light-medium.json"
-        },
-        {
-          "label": "Vim Light Hard",
-          "uiTheme": "vs",
-          "path": "./themes/vim-light-hard.json"
-        },
-        {
-          "label": "Vim Light Soft",
-          "uiTheme": "vs",
-          "path": "./themes/vim-light-soft.json"
-        }
-      ]
-    },
-    "devDependencies": {
-      "@semantic-release/changelog": "6.0.1",
-      "@semantic-release/git": "10.0.1",
-      "ovsx": "0.5.1",
-      "semantic-release": "19.0.2",
-      "vsce": "1.87.1"
-    },
-    "private": true,
-    "scripts": {
-      "semantic-release": "semantic-release"
-    },
-    "license": "MIT"
-  }
+  "name": "vim-theme",
+  "displayName": "Vim Theme",
+  "description": "A vim theme for vscode",
+  "version": "1.0.2",
+  "author": "Harry Hopkinson",
+  "publisher": "HarryHopkinson",
+  "engines": {
+    "vscode": "^1.40.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#3c3836",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/Harry-Hopkinson/vim-vscode-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harry-Hopkinson/vim-vscode-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vim Dark Medium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vim-dark-medium.json"
+      },
+      {
+        "label": "Vim Dark Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vim-dark-hard.json"
+      },
+      {
+        "label": "Vim Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vim-dark-soft.json"
+      },
+      {
+        "label": "Vim Light Medium",
+        "uiTheme": "vs",
+        "path": "./themes/vim-light-medium.json"
+      },
+      {
+        "label": "Vim Light Hard",
+        "uiTheme": "vs",
+        "path": "./themes/vim-light-hard.json"
+      },
+      {
+        "label": "Vim Light Soft",
+        "uiTheme": "vs",
+        "path": "./themes/vim-light-soft.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/git": "10.0.1",
+    "ovsx": "0.5.1",
+    "semantic-release": "19.0.2",
+    "vsce": "1.87.1"
+  },
+  "private": true,
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "license": "MIT"
+}
