@@ -60,7 +60,7 @@
     "@semantic-release/git": "10.0.1",
     "ovsx": "0.5.1",
     "semantic-release": "19.0.2",
-    "vsce": "1.103.1"
+    "vsce": "2.9.2"
   },
   "private": true,
   "scripts": {
