@@ -7,3 +7,5 @@
   Vim Vscode Theme
   <br>
 </h1>
+
+![screenshots](images/screenshots.jpg)
