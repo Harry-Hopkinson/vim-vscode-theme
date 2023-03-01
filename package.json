@@ -2,9 +2,14 @@
   "name": "vim-theme",
   "displayName": "Vim Theme",
   "description": "A vim theme for vscode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Harry Hopkinson",
   "publisher": "HarryHopkinson",
+  "scripts": {
+    "semantic-release": "semantic-release",
+    "package": "vsce package"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.40.1"
   },
@@ -62,9 +67,5 @@
     "semantic-release": "19.0.5",
     "vsce": "2.15.0"
   },
-  "private": true,
-  "scripts": {
-    "semantic-release": "semantic-release"
-  },
-  "license": "MIT"
+  "private": false
 }
