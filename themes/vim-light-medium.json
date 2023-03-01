@@ -2,6 +2,16 @@
   "name": "Vim Light Medium",
   "tokenColors": [
     {
+      "name": "Change the PHP tags to purple (subjective suggestion)",
+			"scope": [
+				"punctuation.section.embedded.begin.php",
+				"punctuation.section.embedded.end.php"
+			],
+			"settings": {
+				"foreground": "#8f3f71"
+			}
+		},
+    {
       "settings": {
         "background": "#fbf1c7",
         "foreground": "#3c3836"
@@ -995,6 +1005,13 @@
     "statusBar.noFolderBorder": "#fbf1c700",
     "statusBar.prominentBackground": "#689d6a",
     "statusBar.prominentHoverBackground": "#689d6a70",
+    
+    "editorBracketHighlight.foreground1": "#7c6f64",
+    "editorBracketHighlight.foreground2": "#689d6a",
+    "editorBracketHighlight.foreground3": "#458588",
+    "editorBracketHighlight.foreground4": "#b16286",
+    "editorBracketHighlight.foreground5": "#d79921",
+    "editorBracketHighlight.foreground6": "#b57614",
     "terminal.ansiBlack": "#ebdbb2",
     "terminal.ansiBrightBlack": "#928374",
     "terminal.ansiRed": "#cc241d",

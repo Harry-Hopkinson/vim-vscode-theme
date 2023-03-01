@@ -3,6 +3,16 @@
   "type": "dark",
   "tokenColors": [
     {
+      "name": "Change the PHP tags to purple (subjective suggestion)",
+			"scope": [
+				"punctuation.section.embedded.begin.php",
+				"punctuation.section.embedded.end.php"
+			],
+			"settings": {
+				"foreground": "#d3869b"
+			}
+		},
+    {
       "settings": {
         "background": "#1d2021",
         "foreground": "#ebdbb2"
@@ -996,6 +1006,12 @@
     "statusBar.noFolderBorder": "#1d202100",
     "statusBar.prominentBackground": "#689d6a",
     "statusBar.prominentHoverBackground": "#689d6a70",
+    "editorBracketHighlight.foreground1": "#ebdbb2",
+    "editorBracketHighlight.foreground2": "#689d6a",
+    "editorBracketHighlight.foreground3": "#458588",
+    "editorBracketHighlight.foreground4": "#b16286",
+    "editorBracketHighlight.foreground5": "#d79921",
+    "editorBracketHighlight.foreground6": "#fabd2f",
     "terminal.ansiBlack": "#3c3836",
     "terminal.ansiBrightBlack": "#928374",
     "terminal.ansiRed": "#cc241d",
