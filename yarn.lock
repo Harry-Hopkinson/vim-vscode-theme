@@ -2814,10 +2814,10 @@ opener@^1.5.2:
   resolved "https://registry.yarnpkg.com/opener/-/opener-1.5.2.tgz#5d37e1f35077b9dcac4301372271afdeb2a13598"
   integrity sha512-ur5UIdyw5Y7yEj9wLzhqXiy6GZ3Mwx0yGI+5sMn2r0N0v3cKJvUmFH5yPP+WXh9e0xfyzyJX95D8l088DNFj7A==
 
-ovsx@0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/ovsx/-/ovsx-0.7.1.tgz#021970005d4e25dcd19287ec82296416f7aff715"
-  integrity sha512-+izXZcujPH+Amq0vGPl0JTeG3m4z9Lfjh0X2DsCoe6ora1eFp+Y3VoJJfngTGWfK01cBxQumqDZvb6psICtuDA==
+ovsx@0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/ovsx/-/ovsx-0.8.0.tgz#e41dffaa8b6230a684e041c1cfe00d5f5b31344d"
+  integrity sha512-W1U7lgBIbhSB1DcqyGKeenKzmwWYY78SkWd+BUKKyLyqN6w39Uekdr0PKAM7dyBGb0JLtLE7d86A1jJVn8bEng==
   dependencies:
     "@vscode/vsce" "^2.15.0"
     commander "^6.1.0"
