@@ -929,7 +929,7 @@
     "editorLineNumber.foreground": "#665c54",
     "editorCursor.foreground": "#ebdbb2",
     "editor.selectionBackground": "#689d6a40",
-    "editor.selectionHighlightBackground": "#fabd2f40",
+    "editor.selectionHighlightBackground": "#a8998420",
     "editor.hoverHighlightBackground": "#689d6a50",
     "editorLink.activeForeground": "#ebdbb2",
     "editor.findMatchBackground": "#83a59870",
