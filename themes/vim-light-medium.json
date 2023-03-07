@@ -976,7 +976,6 @@
     "peekView.border": "#ebdbb2",
     "peekViewEditor.background": "#ebdbb250",
     "peekViewEditorGutter.background": "#ebdbb250",
-    "peekViewEditor.matchHighlightBackground": "",
     "peekViewResult.background": "#ebdbb250",
     "peekViewResult.fileForeground": "#3c3836",
     "peekViewResult.matchHighlightBackground": "#427b5830",
