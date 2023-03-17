@@ -2,7 +2,7 @@
   "name": "vim-theme",
   "displayName": "Vim Theme",
   "description": "A vim theme for vscode",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Harry Hopkinson",
   "publisher": "HarryHopkinson",
   "scripts": {
