@@ -1,5 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
+  "name": "Vim Deep Dark",
   "type": "dark",
   "colors": {
     "focusBorder": "#3c3836",
