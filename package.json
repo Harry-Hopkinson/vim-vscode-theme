@@ -2,7 +2,7 @@
   "name": "vim-theme",
   "displayName": "Vim Theme",
   "description": "A vim theme for vscode",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "Harry Hopkinson",
   "publisher": "HarryHopkinson",
   "scripts": {
@@ -27,6 +27,11 @@
   },
   "contributes": {
     "themes": [
+      {
+        "label": "Vim Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-deep-dark.jsonc"
+      },
       {
         "label": "Vim Dark Medium",
         "uiTheme": "vs-dark",
