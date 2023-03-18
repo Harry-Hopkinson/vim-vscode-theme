@@ -4,14 +4,14 @@
   "tokenColors": [
     {
       "name": "Change the PHP tags to purple (subjective suggestion)",
-			"scope": [
-				"punctuation.section.embedded.begin.php",
-				"punctuation.section.embedded.end.php"
-			],
-			"settings": {
-				"foreground": "#d3869b"
-			}
-		},
+      "scope": [
+        "punctuation.section.embedded.begin.php",
+        "punctuation.section.embedded.end.php"
+      ],
+      "settings": {
+        "foreground": "#d3869b"
+      }
+    },
     {
       "settings": {
         "background": "#32302f",

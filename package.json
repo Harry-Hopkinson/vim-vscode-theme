@@ -56,6 +56,21 @@
         "label": "Vim Light Soft",
         "uiTheme": "vs",
         "path": "./themes/vim-light-soft.json"
+      },
+      {
+        "label": "Vim Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vim-deep-dark.json"
+      },
+      {
+        "label": "Vim Deep Dark Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vim-deep-dark-darker.json"
+      },
+      {
+        "label": "Vim Deep Dark Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vim-deep-dark-flat.json"
       }
     ]
   },
