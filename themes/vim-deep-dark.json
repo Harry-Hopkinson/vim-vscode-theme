@@ -1,5 +1,6 @@
 {
   "name": "Vim Deep Dark",
+  "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
     "focusBorder": "#3c3836",
@@ -72,7 +73,7 @@
     "tab.unfocusedActiveBorder": "#1d202100",
     "tab.unfocusedInactiveForeground": "#928374",
     "editor.background": "#1d2021",
-    "editor.foreground": "#ebdbb2",
+    "editor.foreground": "#e181ff",
     "editorLineNumber.foreground": "#665c54",
     "editorLineNumber.activeForeground": "#fabd2f",
     "editorCursor.foreground": "#ebdbb2",
