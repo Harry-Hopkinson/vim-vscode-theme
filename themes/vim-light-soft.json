@@ -3,14 +3,14 @@
   "tokenColors": [
     {
       "name": "Change the PHP tags to purple (subjective suggestion)",
-			"scope": [
-				"punctuation.section.embedded.begin.php",
-				"punctuation.section.embedded.end.php"
-			],
-			"settings": {
-				"foreground": "#8f3f71"
-			}
-		},
+      "scope": [
+        "punctuation.section.embedded.begin.php",
+        "punctuation.section.embedded.end.php"
+      ],
+      "settings": {
+        "foreground": "#8f3f71"
+      }
+    },
     {
       "settings": {
         "background": "#f2e5bc",
@@ -988,6 +988,7 @@
     "peekViewTitle.background": "#ebdbb250",
     "peekViewTitleDescription.foreground": "#665c54",
     "peekViewTitleLabel.foreground": "#3c3836",
+    "menu.separatorBackground": "#ebdbb2",
     "merge.currentHeaderBackground": "#45858840",
     "merge.currentContentBackground": "#45858820",
     "merge.incomingHeaderBackground": "#689d6a40",
@@ -1008,7 +1009,7 @@
     "statusBar.noFolderBorder": "#f2e5bc00",
     "statusBar.prominentBackground": "#689d6a",
     "statusBar.prominentHoverBackground": "#689d6a70",
-    
+
     "editorBracketHighlight.foreground1": "#7c6f64",
     "editorBracketHighlight.foreground2": "#689d6a",
     "editorBracketHighlight.foreground3": "#458588",
@@ -1057,7 +1058,7 @@
     "textLink.foreground": "#076678",
     "textLink.activeForeground": "#458588",
     "debugToolBar.background": "#f2e5bc",
-    
+
     "notificationsErrorIcon.foreground": "#9d0006",
     "notificationsWarningIcon.foreground": "#fabd2f",
     "notificationsInfoIcon.foreground": "#83a598",

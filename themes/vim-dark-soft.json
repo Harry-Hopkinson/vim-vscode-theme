@@ -989,6 +989,7 @@
     "peekViewTitle.background": "#3c383650",
     "peekViewTitleDescription.foreground": "#bdae93",
     "peekViewTitleLabel.foreground": "#ebdbb2",
+    "menu.separatorBackground": "#3c3836",
     "merge.currentHeaderBackground": "#45858840",
     "merge.currentContentBackground": "#45858820",
     "merge.incomingHeaderBackground": "#689d6a40",
