@@ -71,7 +71,7 @@
   },
   "devDependencies": {
     "@vscode/vsce": "^2.18.0",
-    "ovsx": "0.8.1"
+    "ovsx": "0.8.3"
   },
   "private": false
 }
