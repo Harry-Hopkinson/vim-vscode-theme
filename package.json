@@ -61,11 +61,6 @@
         "label": "Vim Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vim-deep-dark.json"
-      },
-      {
-        "label": "Vim Deep Dark No Variable Colourisation - Use with Syntax Highlighter",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vim-deep-dark-no-variables-highlighted.json"
       }
     ]
   },
