@@ -83,8 +83,8 @@
     "editor.lineHighlightBackground": "#3c383660",
     "editor.lineHighlightBorder": "#3c383600",
     "editorWhitespace.foreground": "#a8998420",
-    "editorIndentGuide.background": "#a8998420",
-    "editorIndentGuide.activeBackground": "#a8998450",
+    "editorIndentGuide.background1": "#a8998420",
+    "editorIndentGuide.activeBackground1": "#a8998450",
     "editorRuler.foreground": "#a8998440",
     "editorCodeLens.foreground": "#a8998490",
     "editorBracketHighlight.foreground1": "#d19a66",
@@ -805,7 +805,13 @@
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#fb4934"
+      }
+    },
+    {
+      "scope": "meta.block",
+      "settings": {
+        "foreground": "#E5C07B"
       }
     },
     {

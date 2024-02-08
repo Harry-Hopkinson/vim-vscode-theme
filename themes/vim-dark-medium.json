@@ -31,6 +31,12 @@
       }
     },
     {
+      "scope": "meta.block",
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+    {
       "scope": "header",
       "settings": {
         "foreground": "#458588"

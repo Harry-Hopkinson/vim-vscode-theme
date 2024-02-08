@@ -200,6 +200,12 @@
       }
     },
     {
+      "scope": "meta.block",
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+    {
       "scope": "keyword.control.module",
       "settings": {
         "foreground": "#8ec07c"
