@@ -8,4 +8,18 @@
   <br>
 </h1>
 
-![screenshots](images/screenshots.jpg)
+<h4 align="center"> Vim Deep Dark
+
+![screenshots](images/showcase/Deep-Dark.png)
+
+<h4 align="center"> Vim Dark Hard
+
+![screenshots](images/showcase/Dark-Hard.png)
+
+<h4 align="center"> Vim Dark Soft
+
+![screenshots](images/showcase/Dark-Soft.png)
+
+<h4 align="center"> Light
+
+![screenshots](images/showcase/Light.png)
