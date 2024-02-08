@@ -19,6 +19,12 @@
       }
     },
     {
+      "scope": "meta.block",
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+    {
       "scope": "emphasis",
       "settings": {
         "fontStyle": "italic"
