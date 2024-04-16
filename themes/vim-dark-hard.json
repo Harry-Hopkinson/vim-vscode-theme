@@ -21,7 +21,7 @@
     {
       "scope": "emphasis",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "mono"
       }
     },
     {
@@ -40,7 +40,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#928374",
-        "fontStyle": "italic"
+        "fontStyle": "mono"
       }
     },
     {
