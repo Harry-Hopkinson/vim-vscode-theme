@@ -70,7 +70,7 @@
     "tab.unfocusedActiveForeground": "#a89984",
     "tab.unfocusedActiveBorder": "#1d202100",
     "tab.unfocusedInactiveForeground": "#928374",
-    "editorLineNumber.foreground": "#7a7068",
+    "editorLineNumber.foreground": "#8a7c71",
     "editorLineNumber.activeForeground": "#fabd2f",
     "editorCursor.foreground": "#ebdbb2",
     "editor.selectionBackground": "#689d6a40",
