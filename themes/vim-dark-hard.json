@@ -936,7 +936,6 @@
     "editor.background": "#1d2021",
     "editor.foreground": "#ebdbb2",
     "editorStickyScroll.background": "#232526",
-    "editorStickyScroll.border": "#4a4d4f",
     "editorLineNumber.foreground": "#8a7c71",
     "editorLineNumber.activeForeground": "#fabd2f",
     "editorCursor.foreground": "#ebdbb2",

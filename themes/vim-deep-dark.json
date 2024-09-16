@@ -224,8 +224,7 @@
     "symbolIcon.packageForeground": "#d3869b",
     "editor.background": "#1d2021",
     "editor.foreground": "#e181ff",
-    "editorStickyScroll.background": "#262829",
-    "editorStickyScroll.border": "#4a4d4f"
+    "editorStickyScroll.background": "#262829"
   },
   "tokenColors": [
     {
